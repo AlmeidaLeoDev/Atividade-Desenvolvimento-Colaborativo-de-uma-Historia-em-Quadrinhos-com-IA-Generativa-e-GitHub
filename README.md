@@ -1,0 +1,1 @@
+# Atividade-Desenvolvimento-Colaborativo-de-uma-Historia-em-Quadrinhos-com-IA-Generativa-e-GitHub
