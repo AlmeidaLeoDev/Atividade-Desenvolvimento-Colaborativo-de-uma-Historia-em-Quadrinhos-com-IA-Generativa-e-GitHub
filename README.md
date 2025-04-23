@@ -41,6 +41,17 @@ Objetivos Principais:
 
 </br>
 
+### Gerenciamento
+
+* Local onde será gerenciado o Product Backlog: https://www.atlassian.com/software/jira
+* Product Backlog: https://almeidaleodev.atlassian.net/jira/software/projects/QUAD/boards/2/backlog
+* Local onde será gerenciado o Sprint: https://www.atlassian.com/software/jira
+* Sprint Backlog: https://almeidaleodev.atlassian.net/jira/software/projects/QUAD/boards/2
+* Local onde será gerenciado o KANBAN: https://www.atlassian.com/software/jira
+* O Kanban com as atividades da primeira sprint já geradas: https://almeidaleodev.atlassian.net/jira/software/projects/QK/boards/3
+
+</br>
+
 ### Feito com
 
 * GitHub
