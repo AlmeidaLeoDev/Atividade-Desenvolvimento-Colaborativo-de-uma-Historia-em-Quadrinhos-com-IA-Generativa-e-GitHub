@@ -55,14 +55,26 @@ Objetivos Principais:
 
 ### Contribuidores
 
+<table>
   <tr>
     <td align="center">
-        <p>Leonardo Almeida Guimarães de Souza</p>
+      <a href="https://github.com/AlmeidaLeoDev" target="_blank">
+        <img src="img/LeonardoProfile.png" width="100px;" alt="Leonardo Profile Picture"/><br>
+        <sub>
+          <b>Leonardo Almeida Guimarães de Souza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/404-tonbarbosa" target="_blank">
+        <img src="img/EvertonProfile.png" width="100px;" alt="Everton Profile Picture"/><br>
+        <sub>
+          <b>Everton Barbosa dos Santos</b>
+        </sub>
+      </a>
     </td>
   <tr>
-    <td align="center">
-        <p>Everton Barbosa dos Santos</p>
-    </td>
+</table>
     
 
 
