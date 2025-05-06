@@ -76,14 +76,6 @@ Objetivos Principais:
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/404-tonbarbosa" target="_blank">
-        <img src="img/EvertonProfile.png" width="100px;" alt="Everton Profile Picture"/><br>
-        <sub>
-          <b>Everton Barbosa dos Santos</b>
-        </sub>
-      </a>
-    </td>
   <tr>
 </table>
     
