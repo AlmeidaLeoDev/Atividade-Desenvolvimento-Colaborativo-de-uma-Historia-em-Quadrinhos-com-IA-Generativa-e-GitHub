@@ -61,6 +61,17 @@ Objetivos Principais:
 
 <br />
 
+<!-- USAGE -->
+## Usage
+
+Veja a história em quadrinhos: 
+
+<img src="img/quadroUmDois.png" alt="quadro1e2" width="700" height="auto">
+<img src="img/quadroTresQuatro.png" alt="quadro3e4" width="700" height="auto">
+<img src="img/quadroCinco.png" alt="quadro5" width="700" height="auto">
+
+<br />
+
 <!-- CONTRIBUTING -->
 ## Contribuição
 
