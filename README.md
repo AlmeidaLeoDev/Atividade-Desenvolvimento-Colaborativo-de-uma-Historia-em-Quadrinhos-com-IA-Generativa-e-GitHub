@@ -31,13 +31,16 @@ Objetivos Principais:
 ### Estrutura Inicial da HQ
 
 **Quadros:**
-1. Chegada de Vortex ao IFES
-2. Apresentação do TCC de Léo
+1. No pátio do IFES, à noite
+2. Em um laboratório improvisado do IFES
 3. Começo da parceria com tecnologia alienígena
 4. Teste com banana podre
 5. Problemas com expressões humanas
-6. Teste com cachorro doente
-7. Final feliz na cantina com coxinhas
+6. Problemas com expressões humanas
+7. Teste com cachorro doente
+8. Teste com cachorro doente
+9. Teste com cachorro doente
+10. Comemoração na cantina
 
 </br>
 
@@ -68,7 +71,10 @@ Veja a história em quadrinhos:
 
 <img src="img/quadroUmDois.png" alt="quadro1e2" width="700" height="auto">
 <img src="img/quadroTresQuatro.png" alt="quadro3e4" width="700" height="auto">
-<img src="img/quadroCinco.png" alt="quadro5" width="700" height="auto">
+<img src="img/quadroCincoSeis.png" alt="quadro5" width="700" height="auto">
+<img src="img/quadroSete.png" alt="quadro5" width="700" height="auto">
+<img src="img/quadroOitoNove.png" alt="quadro5" width="700" height="auto">
+<img src="img/quadroDez.png" alt="quadro5" width="700" height="auto">
 
 <br />
 
